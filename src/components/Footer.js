@@ -33,18 +33,18 @@ function Footer() {
           <div className="footer-link-items">
             <h2>Contact Info</h2>
             <Link to='/sign-up'>Get Support</Link>
-            <Link to='/'>Contact US</Link>
-            <Link to='/'>Careers</Link>
-            <Link to='/'>Be a Partner</Link>
-            <Link to='/'>Be a member</Link>
+            <Link to='https://dharmikgohil.fun/'>Contact US</Link>
+            <Link to='https://dharmikgohil.fun/'>Careers</Link>
+            <Link to='https://dharmikgohil.fun/'>Be a Partner</Link>
+            <Link to='https://dharmikgohil.fun/'>Be a member</Link>
           </div>
           <div className="footer-link-items">
             <h2>Our Assets</h2>
             <Link to='/sign-up'>Submit Videos</Link>
-            <Link to='/'>Ambassadors</Link>
-            <Link to='/'>Agency</Link>
-            <Link to='/'>Influencer</Link>
-            <Link to='/'>Report an issue</Link>
+            <Link to='https://dharmikgohil.fun/'>Ambassadors</Link>
+            <Link to='https://dharmikgohil.fun/'>Agency</Link>
+            <Link to='https://dharmikgohil.fun/'>Influencer</Link>
+            <Link to='https://dharmikgohil.fun/'>Report an issue</Link>
           </div>
         </div>
       </section>
@@ -59,19 +59,19 @@ function Footer() {
             TSPOT &copy; 2022
           </small>
           <div className="social-icons">
-            <Link className="social-icon-link facebook" to="/" target="_blank" aria-label="Facebook">
+            <Link className="social-icon-link facebook" to="https://dharmikgohil.fun/" target="_blank" aria-label="Facebook">
               <i className="fab fa-facebook-f"></i>
             </Link>
-            <Link className="social-icon-link instagram" to="/" target="_blank" aria-label="Instagram">
+            <Link className="social-icon-link instagram" to="https://dharmikgohil.fun/" target="_blank" aria-label="Instagram">
               <i className="fab fa-instagram"></i>
             </Link>
-            <Link className="social-icon-link youtube" to="/" target="_blank" aria-label="Youtube">
+            <Link className="social-icon-link youtube" to="https://dharmikgohil.fun/" target="_blank" aria-label="Youtube">
               <i className="fab fa-youtube"></i>
             </Link>
-            <Link className="social-icon-link twitter" to="/" target="_blank" aria-label="Twitter">
+            <Link className="social-icon-link twitter" to="https://dharmikgohil.fun/" target="_blank" aria-label="Twitter">
               <i className="fab fa-twitter"></i>
             </Link>
-            <Link className="social-icon-link linkedin" to="/" target="_blank" aria-label="Linkedin">
+            <Link className="social-icon-link linkedin" to="https://dharmikgohil.fun/" target="_blank" aria-label="Linkedin">
               <i className="fab fa-linkedin"></i>
             </Link>
           </div>
